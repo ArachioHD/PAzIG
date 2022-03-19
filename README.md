@@ -3,8 +3,10 @@ Projektowanie Aplikacji z Interfejsem Graficznym
 
 
 Temat projektu: Aplikacja do obserwacji postępów terapii psychologicznej
+
 Autor: Mieszczanin Julia, Pieniążek Marcin
 Sekcja: 1
+
 Rok akademicki: 2021/2022
 
 
