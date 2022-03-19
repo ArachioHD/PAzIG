@@ -27,8 +27,8 @@ Register:
 - Password
 
 Login:
--PESEL
--Password
+- PESEL
+- Password
 
 Patient Data:
 - Name
