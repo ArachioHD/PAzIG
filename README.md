@@ -2,12 +2,15 @@
 Projektowanie Aplikacji z Interfejsem Graficznym
 
 
+
 Temat projektu: Aplikacja do obserwacji postępów terapii psychologicznej
 
 Autor: Mieszczanin Julia, Pieniążek Marcin
+
 Sekcja: 1
 
 Rok akademicki: 2021/2022
+
 
 
 Naszym założeniem jest stworzenie aplikacji wykorzystując platformę NativeScript + Angular. 
@@ -19,6 +22,7 @@ podstawowych danych o sobie. Po zalogowaniu pacjent będzie miał możliwość d
 wizyty u specjalisty oraz dziennych informacji o samopoczuciu. Planowane jest stworzenie statystyk 
 dotyczących samopoczucia pacjenta, które mogą pomóc w ocenie skuteczności prowadzonej terapii 
 oraz w doborze odpowiedniej częstotliwości wizyt.
+
 
 
 Register:
